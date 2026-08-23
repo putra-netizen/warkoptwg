@@ -1,0 +1,10 @@
+{
+  "name": "Remix WARKOP TWG POS",
+  "description": "Sistem Point of Sale (POS) dan Manajemen Keuangan Warkop TWG dengan integrasi Google Sheets \u0026 Cetak Struk Thermal 58mm",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
